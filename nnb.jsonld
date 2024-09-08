@@ -55,14 +55,14 @@
   "body": {
     "doNotList": false,
     "givenName": "nnb",
-    "motivations": "Cardano offers solutions to solve the current challenges in our lives. Problems that are not solved by current platforms. I found it in Cardano. I want to contribute to the implementation of those solutions.",
-    "objectives": "I want to be one of the contributors to the development of the Cardano ecosystem",
-    "paymentAddress": "",
+    "motivations": "I do not claim to fully understand the entire Cardano ecosystem. I am a member of the Cardano family. I know that not everyone has as much time as I do. I want to dedicate my time to represent those who don't have the time to research governance issues, to voice their opinions, and to contribute to the growth of Cardano.",
+    "objectives": "The current financial system has many unresolved issues. I have researched Cardano and found solutions to address the existing weaknesses. I want to contribute my efforts to the development of the Cardano ecosystem.\n",
+    "paymentAddress": "addr_test1qpp0yj2lqc9jttqutye7zrsakwhvallrjpk88kwn7f0ytsdz6g5ztulsc4lqqeltxqva9as0uwk3p4m4w2fnddzzx4uslyfpvc",
     "qualifications": "1.Ton Duc Thang University graduation certificate. Major in Electronics and Telecommunications.\n2. Japanese intermediate certificate N2.\n3. ISO 9000 & 14000 internal auditor certificate\n4. Cardano CBCA training course completion certificate\n5. Cardano Dreps training course completion certificate\n6. Block chain knowledge training course completed by Fimi organization",
     "references": [
       {
         "@type": "Link",
-        "label": "All my transparency is shown through Facebook joined since 2010.",
+        "label": "Facebook",
         "uri": "https://www.facebook.com/nguyenbangoc/"
       },
       {
